@@ -24,21 +24,21 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 - *2025.05*: &nbsp;🎉🎉 I joined the School of Management at Anhui University as an Assistant Professor. 
 
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 # 2025
 [J1] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. Journal of the Association for Information Science and Technology, 2025 (in press). [[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards {#honors-and-awards}
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# 💬 Invited Talks {#invited-talks}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Internships {#internships}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
