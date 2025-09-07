@@ -41,11 +41,11 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 - [C] **Yi Zhao**, Heng Zhang, Wenqing Wu, Tong Bao and Chengzhi Zhang*. Measuring the Novelty of Scientific Papers Based on the Latent Distance Between Pairs of MeSH Terms. **In: Proceedings of the 24th ACM/IEEE Joint Conference on Digital Libraries (JCDL2024)**, Hong Kong, China, 2024. [[doi](https://dl.acm.org/doi/10.1145/3677389.3702533)]
 - [C] Wenqing Wu, Chengzhi Zhang* and **Yi Zhao**. Which Types of Word Embedding Models are More Effective for Novelty Measurement? **In: Proceedings of the 24th ACM/IEEE Joint Conference on Digital Libraries (JCDL2024)**, Hong Kong, China, 2024. [[doi](https://dl.acm.org/doi/10.1145/3677389.3702491)]
 - [C] Haochuan Li, **Yi Zhao**, Heng Zhang, Yukuai Yang, Chengzhi Zhang*. The Relationship between the Scale of Fine-grained Knowledge Entities in Academic Articles and Articles’ Academic Impact. In: iConference 2024 Posters. March 15-18, 2024, Online.  [[pdf](https://www.ideals.illinois.edu/items/129994)]
-###2023
+### 2023
 - [J] Chengzhi Zhang, Siqi Wei, **Yi Zhao**, Liang Tian. Gender Differences in Research Topic and Method Selection in Library and Information Science: Perspectives from Three Top Journals. **Library & Information Science Research**, 2023, 45(3): 101255. [[doi](https://www.sciencedirect.com/science/article/pii/S0740818823000312?via%3Dihub)]
 - [C] Yuzhuo Wang, Yi Xiang, **Yi Zhao**, Chengzhi Zhang*. Exploring Mention Motivation of Algorithm Entities in Full-text of Academic Papers. **In: Proceedings of the 19th International Conference on Scientometrics and Informetrics (ISSI 2023)**, Bloomington, IN, USA, 2023. [[doi](https://zenodo.org/records/10651565)]
 - [C] Siqi Wei, Liang Tian, **Yi Zhao**, Chengzhi Zhang*. Gender Differences in Research Method Usage in Library and Information Science. **In: Proceedings of the 19th International Conference on Scientometrics and Informetrics (ISSI 2023)**, Bloomington, IN, USA, 2023. [[doi](https://zenodo.org/records/10651735)]
-###2022
+### 2022
 - [J] **Yi Zhao**, Lifan Liu, Chengzhi Zhang*. Is Coronavirus-Related Research Becoming More Interdisciplinary? A Perspective of Co-occurrence Analysis and Diversity Measure of Scientific Articles. **Technological Forecasting & Social Change**, 2022, 175: 121344. [[doi](https://www.sciencedirect.com/science/article/pii/S0040162521007757?via%3Dihub)]
 - [J] Haixu Xi, Chengzhi Zhang*, **Yi Zhao**, Sheng He. Public Emotional Diffusion over COVID-19 Related Tweets Posted by Major Public Health Agency in the United States. **Data Intelligence**, 2022, 4(1): 66–87. [[doi](https://www.sciengine.com/DI/doi/10.1162/dint_a_00101)]
 ###2021
