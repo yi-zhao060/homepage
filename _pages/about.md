@@ -26,8 +26,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 
 # 📝 Publications 
 # 2025
-[J1] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. Journal of the Association for Information Science and Technology, 2025 (in press).  
-[[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
+[J1] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. Journal of the Association for Information Science and Technology, 2025 (in press). [[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
