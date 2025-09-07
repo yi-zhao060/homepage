@@ -1,17 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "{{ '/about/' | relative_url }}"      # 如果有独立 about 页面
+    url: "/homepage/#about-me"
 
   - title: "News"
-    url: "{{ '/#news' | relative_url }}"
+    url: "/homepage/#news"
+
   - title: "Publications"
-    url: "{{ '/#publications' | relative_url }}"
+    url: "/homepage/#publications"
+
   - title: "Honors and Awards"
-    url: "{{ '/#honors-and-awards' | relative_url }}"
+    url: "/homepage/#honors-and-awards"
+
   - title: "Educations"
-    url: "{{ '/#educations' | relative_url }}"
+    url: "/homepage/#educations"
+
   - title: "Invited Talks"
-    url: "{{ '/#invited-talks' | relative_url }}"
+    url: "/homepage/#invited-talks"
+
   - title: "Internships"
-    url: "{{ '/#internships' | relative_url }}"
+    url: "/homepage/#internships"
