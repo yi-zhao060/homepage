@@ -20,7 +20,7 @@ redirect_from:
 I am an Assistant Professor at the School of Management, Anhui University. I received a PhD in Management Science from the School of Economics and Management, Nanjing University of Science and Technology (NJUST). I have published over 20 papers in peer-reviewed journals, including JASIST, IPM, LISR, TFSC, SCIM, JOI, ESWA, etc. I serve as a reviewer for several international journals, such as IPM, TFSC, and SCIM. In addition, I am an external researcher at The Center for Science of Science at Yonsei University. My research focuses on team science, bibliometrics, and scientific text mining, particularly the impact of artificial intelligence (AI) on scientific collaboration, gender equality, and scientific evaluation.
 
 
-# 🔥 News
+# 🔥 News {#news}
 - *2025.05*: &nbsp;🎉🎉 I joined the School of Management at Anhui University as an Assistant Professor. 
 
 
