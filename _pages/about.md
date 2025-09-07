@@ -26,19 +26,20 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 
 # 📝 Publications {#publications}
 # 2025
-[J1] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. Journal of the Association for Information Science and Technology, 2025 (in press). [[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
+[J1] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. **Journal of the Association for Information Science and Technology**, 2025 (in press). [[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
 
 # 🎖 Honors and Awards {#honors-and-awards}
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations {#educations}
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2025.05*, Ph.D. in Management, School of Economics and Management, Nanjing University of Science and Technology.
+- *2022.12 - 2023.12*, visiting scholar, Department of Library and Inforamtion Science, Yonsei University.
+- *2016.09 - 2019.06*, M.S. in Economic, School of Business Administration, Hohai University.
+- *2012.06 - 2016.06*, B.S. in Management, School of Business Administration, Hohai University.
 
-# 💬 Invited Talks {#invited-talks}
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Service {#invited-talks}
+
 
 # 💻 Internships {#internships}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
