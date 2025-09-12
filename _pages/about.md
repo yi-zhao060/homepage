@@ -49,7 +49,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 ### 2022
 - [J] **Yi Zhao**, Lifan Liu, Chengzhi Zhang*. Is Coronavirus-Related Research Becoming More Interdisciplinary? A Perspective of Co-occurrence Analysis and Diversity Measure of Scientific Articles. **Technological Forecasting & Social Change**, 2022, 175: 121344. [[doi](https://www.sciencedirect.com/science/article/pii/S0040162521007757?via%3Dihub)]
 - [J] Haixu Xi, Chengzhi Zhang*, **Yi Zhao**, Sheng He. Public Emotional Diffusion over COVID-19 Related Tweets Posted by Major Public Health Agency in the United States. **Data Intelligence**, 2022, 4(1): 66–87. [[doi](https://www.sciengine.com/DI/doi/10.1162/dint_a_00101)]
-###2021
+### 2021
 - [J] **Yi Zhao**, Haixu Xi, Chengzhi Zhang*. Exploration of Occupation Differences in Reactions to COVID-19 Pandemic on Twitter. **Data and Information Management**, 2021, 5(1): 110-118. [[doi](https://www.sciencedirect.com/science/article/pii/S2543925122000262?via%3Dihub)]
 - [C] **Yi Zhao**, Yuzhuo Wang, Chengzhi Zhang*. A Bipartite Author-algorithm Network for Exploring Versatile Scholars. **In: Proceedings of the 18th International Conference on Scientometrics and Informetrics (ISSI 2021)**, Online, 2021. [[doi](https://chengzhizhang.github.io/research/video/issi_poster_meng.pdf)]
 
