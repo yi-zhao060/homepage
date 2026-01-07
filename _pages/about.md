@@ -26,6 +26,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 
 
 # 📝 Publications {#publications}
+
 ### 2026
 - [J] **Yi Zhao**, Yongjun Zhu, Donghun Kim, Yuzhuo Wang, Heng Zhang, Chao Lu, Chengzhi Zhang*. The Effect of Gender Diversity on Scientific Team Impact: A Team Roles Perspective. **Journal of Informetrics**, 2026, 20(1): 101766. [[doi]()] [[arXiv](https://arxiv.org/abs/2512.23429)]
 ### 2025
