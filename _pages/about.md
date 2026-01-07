@@ -21,10 +21,13 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 
 
 # 🔥 News {#news}
+- *2026.01*: &nbsp;🎉🎉 My paper was accepted by the *Journal of Informetrics*.
 - *2025.05*: &nbsp;🎉🎉 I joined the School of Management at Anhui University as an Assistant Professor. 
 
 
 # 📝 Publications {#publications}
+### 2026
+- [J] **Yi Zhao**, Yongjun Zhu, Donghun Kim, Yuzhuo Wang, Heng Zhang, Chao Lu, Chengzhi Zhang*. The Effect of Gender Diversity on Scientific Team Impact: A Team Roles Perspective. Journal of Informetrics, 2026, 20(1): 101766. [[doi]()] [[arXiv](https://arxiv.org/abs/2512.23429)]
 ### 2025
 - [J] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. **Journal of the Association for Information Science and Technology**, 2025 (in press). [[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
 - [J] Chengzhi Zhang, Jiaqi Zeng, **Yi Zhao**. Is higher team gender diversity correlated with better scientific impact? **Journal of Informetrics**, 2025, 19(2): 101662. [[doi](https://www.sciencedirect.com/science/article/pii/S1751157725000264?via%3Dihub)]
