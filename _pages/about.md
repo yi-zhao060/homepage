@@ -73,7 +73,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 ### PC member
 - JCDL'25
 - JCDL'24
-- 
+  
 # 💻 Internships {#internships}
 # 🎖 Honors and Awards {#honors-and-awards}
 
