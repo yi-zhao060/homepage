@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am an Assistant Professor at the School of Management, Anhui University. I received a PhD in Management Science from the School of Economics and Management, Nanjing University of Science and Technology (NJUST). I have published over 20 papers in peer-reviewed journals, including JASIST, IPM, LISR, TFSC, SCIM, JOI, ESWA, etc. I serve as a reviewer for several international journals, such as IPM, TFSC, and SCIM. In addition, I am a guest researcher at <a href="https://sci.yonsei.ac.kr/external_researchers/" target="_blank"> the Center for Science of Science at Yonsei University</a>. My research focuses on team science, bibliometrics, research evaluation, and scientific text mining, particularly the impact of artificial intelligence (AI) on scientific collaboration, gender equality, and scientific evaluation.
+<p style="text-align: justify;">
+I am an Assistant Professor at the School of Management, Anhui University. I received a PhD in Management Science from the School of Economics and Management, Nanjing University of Science and Technology (NJUST). I have published over 20 papers in peer-reviewed journals, including JASIST, IPM, LISR, TFSC, SCIM, JOI, ESWA, etc. I serve as a reviewer for several international journals, such as IPM, TFSC, and SCIM. In addition, I am a guest researcher at <a href="https://sci.yonsei.ac.kr/external_researchers/" target="_blank"> the Center for Science of Science at Yonsei University</a>. My research focuses on team science, bibliometrics, research evaluation, and scientific text mining, particularly the impact of artificial intelligence (AI) on scientific collaboration, gender equality, and scientific evaluation.</p>
 
 
 # 🔥 News {#news}
