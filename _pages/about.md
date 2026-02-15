@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor at the School of Management, Anhui University. I received a PhD in Management Science from the School of Economics and Management, Nanjing University of Science and Technology (NJUST). I have published over 20 papers in peer-reviewed journals, including JASIST, IPM, LISR, TFSC, SCIM, JOI, ESWA, etc. I serve as a reviewer for several international journals, such as IPM, TFSC, and SCIM. In addition, I am an external researcher at The Center for Science of Science at Yonsei University. My research focuses on team science, bibliometrics, research evaluation, and scientific text mining, particularly the impact of artificial intelligence (AI) on scientific collaboration, gender equality, and scientific evaluation.
+I am an Assistant Professor at the School of Management, Anhui University. I received a PhD in Management Science from the School of Economics and Management, Nanjing University of Science and Technology (NJUST). I have published over 20 papers in peer-reviewed journals, including JASIST, IPM, LISR, TFSC, SCIM, JOI, ESWA, etc. I serve as a reviewer for several international journals, such as IPM, TFSC, and SCIM. In addition, I am a guest researcher at <a href="https://sci.yonsei.ac.kr/external_researchers/" target="_blank"> the Center for Science of Science at Yonsei University</a>. My research focuses on team science, bibliometrics, research evaluation, and scientific text mining, particularly the impact of artificial intelligence (AI) on scientific collaboration, gender equality, and scientific evaluation.
 
 
 # 🔥 News {#news}
@@ -60,7 +60,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 
 # 📖 Educations {#educations}
 - *2019.09 - 2025.05*, Ph.D. in Management, School of Economics and Management, Nanjing University of Science and Technology.
-- *2022.12 - 2023.12*, visiting scholar, Department of Library and Inforamtion Science, Yonsei University.
+- *2022.12 - 2023.12*, Visiting scholar, Department of Library and Inforamtion Science, Yonsei University.
 - *2016.09 - 2019.06*, M.S. in Economic, School of Business Administration, Hohai University.
 - *2012.06 - 2016.06*, B.S. in Management, School of Business Administration, Hohai University.
 
