@@ -49,6 +49,10 @@
 }
 
 .page__content {
+  ul {
+    padding-left: 20px;
+    margin-top: 0.5em;
+  }
   #about-me{
     margin-top: -10em;
       &:before { 
