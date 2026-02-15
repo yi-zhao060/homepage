@@ -29,6 +29,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 
 ### 2026
 - [J] **Yi Zhao**, Yongjun Zhu, Donghun Kim, Yuzhuo Wang, Heng Zhang, Chao Lu, Chengzhi Zhang*. The Effect of Gender Diversity on Scientific Team Impact: A Team Roles Perspective. **Journal of Informetrics**, 2026, 20(1): 101766. [[doi](https://www.sciencedirect.com/science/article/pii/S1751157725001282)] [[arXiv](https://arxiv.org/abs/2512.23429)]
+- [J] Hongye Zhao, **Yi Zhao**, Chengzhi Zhang*. Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective. Technological Forecasting & Social Change. 2026 (in press) [doi] [[arXiv](https://arxiv.org/abs/2602.05211)]
 ### 2025
 - [J] Wenqing Wu, Chengzhi Zhang*, **Yi Zhao**. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. **Journal of the Association for Information Science and Technology**, 2025, 76(11): 1452-1469. [[doi](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.70005?af=R)] [[arXiv](https://arxiv.org/abs/2507.11330)] [[Information Matters](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)]
 - [J] Chengzhi Zhang, Jiaqi Zeng, **Yi Zhao**. Is higher team gender diversity correlated with better scientific impact? **Journal of Informetrics**, 2025, 19(2): 101662. [[doi](https://www.sciencedirect.com/science/article/pii/S1751157725000264?via%3Dihub)]
