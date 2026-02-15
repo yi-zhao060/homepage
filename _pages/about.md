@@ -70,8 +70,10 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 - Technological Forecasting and Social Change
 - Scientometrics
 - Acta Psychologica
-
-
+### PC member
+- JCDL'25
+- JCDL'24
+- 
 # 💻 Internships {#internships}
 # 🎖 Honors and Awards {#honors-and-awards}
 
