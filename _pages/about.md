@@ -28,6 +28,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 # 📝 Publications {#publications}
 
 ## 2026
+- [J] Rui Liu, **Yi Zhao**, Eunji Jeon, Yi Bu, Irene Li, Yongjun Zhu*. A review of the science of team science: Data sources, research methods, disciplinary characteristics, and research topics. ***Journal of Informetrics***, 2026, 20(2): 101802. [[doi]](https://doi.org/10.1016/j.joi.2026.101802) 
 - [J] **Yi Zhao**, Yongjun Zhu, Donghun Kim, Yuzhuo Wang, Heng Zhang, Chao Lu, Chengzhi Zhang*. The Effect of Gender Diversity on Scientific Team Impact: A Team Roles Perspective. ***Journal of Informetrics***, 2026, 20(1): 101766. [[doi]](https://doi.org/10.1016/j.joi.2025.101766) [[arXiv]](https://arxiv.org/abs/2512.23429)
 - [J] Hongye Zhao, **Yi Zhao**, Chengzhi Zhang*. Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective. ***Technological Forecasting & Social Change***. 2026, 226: 124598. [[doi]](https://doi.org/10.1016/j.techfore.2026.124598) [[arXiv]](https://arxiv.org/abs/2602.05211)
 ## 2025
