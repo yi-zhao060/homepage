@@ -28,6 +28,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 # 📝 Publications {#publications}
 
 ## 2026
+- [J] Chao Min\$, **Yi Zhao**\$, Yi Bu, Yi Zhang, Ying Ding, Caroline S. Wagner\*. Has China caught up to the U.S. in AI research? An exploration of mimetic isomorphism as a model for late industrializers. ***Scientometrics***. 2026, 131, 2769-2800. [[doi]](https://doi.org/10.1007/s11192-026-05573-6)
 - [J] Hongye Zhao, **Yi Zhao**, Chengzhi Zhang\*. Exploring Novelty Differences between Industry and Academia: A Knowledge Entity-centric Perspective. ***Scientometrics***. 2026. [[doi]](https://doi.org/10.1007/s11192-026-05607-z)
 - [J] Wenqing Wu, Chengzhi Zhang\*, **Yi Zhao**, Tong Bao. Impact of large language models on peer review opinions from a fine-grained perspective: Evidence from top conference proceedings in AI. ***Scientometrics***. 2026. [[doi]](https://arxiv.org/abs/2604.19578)
 - [J] Rui Liu, **Yi Zhao**, Eunji Jeon, Yi Bu, Irene Li, Yongjun Zhu\*. A review of the science of team science: Data sources, research methods, disciplinary characteristics, and research topics. ***Journal of Informetrics***, 2026, 20(2): 101802. [[doi]](https://doi.org/10.1016/j.joi.2026.101802) 
