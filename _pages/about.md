@@ -80,6 +80,8 @@ $ represents co-first authorship
 ## Program Committee Member
 - JCDL'25
 - JCDL'24
+## Youth Editorial Board Member
+- Knowledge Organization
   
 # 💻 Internships {#internships}
 # 🎖 Honors and Awards {#honors-and-awards}
