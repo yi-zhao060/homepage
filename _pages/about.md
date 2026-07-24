@@ -78,7 +78,10 @@ $ represents co-first authorship
 - *Technological Forecasting and Social Change*
 - *Scientometrics*
 - *Acta Psychologica*
+- *Heliyon*
 ## Program Committee Member
+- EEKE-ALL '26
+- JCDL'26
 - JCDL'25
 - JCDL'24
 ## Youth Editorial Board Member
