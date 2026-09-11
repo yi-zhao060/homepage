@@ -84,6 +84,8 @@ $ represents co-first authorship
 - *Heliyon*
 ## Program Committee Member
 - EEKE-ALL '26
+- AI4SciSci 2026
+- AI4SciSci 2025
 - JCDL'26
 - JCDL'25
 - JCDL'24
