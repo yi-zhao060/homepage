@@ -29,6 +29,7 @@ I am an Assistant Professor at the School of Management, Anhui University. I rec
 $ represents co-first authorship
 ## 2027
 - [J] Tong Bao, **Yi Zhao**, Heng Zhang, Chengzhi Zhang\*. Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach. ***Expert Systems With Application***, 2027, 333: 133983. [[doi]](https://doi.org/10.1016/j.eswa.2026.133983)
+- [J] **Yi Zhao**, Heng Zhang, Yuzhuo Wang, Wenqing Wu, Tong Bao, Chengzhi Zhang*. Measuring the Novelty of Biomedical Papers Using the Latent Distances between Knowledge Units. ***Journal of Information Science***, 2027.[[doi]](https://doi.org/)[[arXiv]](https://arxiv.org/abs/2609.05175)
 ## 2026
 - [J] **Yi Zhao**, Heng Zhang, Yuzhuo Wang\*, Ziyi Xie, Yongjun Zhu\*. Influence of various novelty types on delayed scientific recognition: Insights from citation classics essays. ***Journal of Informetrics***, 2026, 20(4): 101867. [[doi]](https://doi.org/10.1016/j.joi.2026.101867)
 - [J] Jeongyeon Choi, **Yi Zhao**, Yongjun Zhu\*. Does the Matthew effect exist in open peer review? An empirical study of institutional prestige effects on review outcomes. ***Journal of Informetrics***, 2026, 20(3): 101849. [[doi]](https://doi.org/10.1016/j.joi.2026.101849) 
